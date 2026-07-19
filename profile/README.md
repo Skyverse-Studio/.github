@@ -20,5 +20,3 @@ Note: This organisation is only for Skyverse RP Development Purpose.
   <a href="https://store.skyeome.in"><img src="https://img.shields.io/badge/STORE-0A0A0A?style=for-the-badge&logo=shopify&logoColor=BBFF00" /></a>
   <a href="https://skyeome.in/queue"><img src="https://img.shields.io/badge/PLAY_NOW-0A0A0A?style=for-the-badge&logo=fivem&logoColor=BBFF00" /></a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F1A00,100:0A0A0A&height=100&section=footer" />
